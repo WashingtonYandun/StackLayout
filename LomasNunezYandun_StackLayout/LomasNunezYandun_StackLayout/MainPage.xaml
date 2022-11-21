@@ -3,20 +3,34 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="LomasNunezYandun_StackLayout.Stack"
              Title="Stack">
-    <StackLayout Margin="20">
-        <Label Text="Primary colors" />
+
+    <StackLayout Margin="0" BackgroundColor="#222">
+        <Label Text="Argentina colors" />
+        <BoxView Color="SkyBlue"
+                 HeightRequest="40" />
+        <BoxView Color="WhiteSmoke"
+                 HeightRequest="40" />
+        <BoxView Color="SkyBlue"
+                 HeightRequest="40" />
+        <Label Text="Poland colors" />
         <BoxView Color="Red"
                  HeightRequest="40" />
-        <BoxView Color="Yellow"
+        <BoxView Color="WhiteSmoke"
+                 HeightRequest="40" />
+
+        <Label Text="Netherlands colors" />
+        <BoxView Color="Red"
+                 HeightRequest="40" />
+        <BoxView Color="WhiteSmoke"
                  HeightRequest="40" />
         <BoxView Color="Blue"
                  HeightRequest="40" />
-        <Label Text="Secondary colors" />
-        <BoxView Color="Green"
+        <Label Text="Ecuador colors" />
+        <BoxView Color="Yellow"
+                 HeightRequest="60" />
+        <BoxView Color="Blue"
                  HeightRequest="40" />
-        <BoxView Color="Orange"
-                 HeightRequest="40" />
-        <BoxView Color="Purple"
+        <BoxView Color="Red"
                  HeightRequest="40" />
     </StackLayout>
 </ContentPage>

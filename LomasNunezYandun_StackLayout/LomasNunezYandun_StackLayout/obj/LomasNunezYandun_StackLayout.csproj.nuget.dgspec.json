@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\laboratorio\\Desktop\\LomasNunezYandun_StackLayout\\LomasNunezYandun_StackLayout\\LomasNunezYandun_StackLayout.csproj": {}
+    "C:\\Users\\laboratorio\\Source\\Repos\\WashingtonYandun\\StackLayout\\LomasNunezYandun_StackLayout\\LomasNunezYandun_StackLayout\\LomasNunezYandun_StackLayout.csproj": {}
   },
   "projects": {
-    "C:\\Users\\laboratorio\\Desktop\\LomasNunezYandun_StackLayout\\LomasNunezYandun_StackLayout\\LomasNunezYandun_StackLayout.csproj": {
+    "C:\\Users\\laboratorio\\Source\\Repos\\WashingtonYandun\\StackLayout\\LomasNunezYandun_StackLayout\\LomasNunezYandun_StackLayout\\LomasNunezYandun_StackLayout.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\laboratorio\\Desktop\\LomasNunezYandun_StackLayout\\LomasNunezYandun_StackLayout\\LomasNunezYandun_StackLayout.csproj",
+        "projectUniqueName": "C:\\Users\\laboratorio\\Source\\Repos\\WashingtonYandun\\StackLayout\\LomasNunezYandun_StackLayout\\LomasNunezYandun_StackLayout\\LomasNunezYandun_StackLayout.csproj",
         "projectName": "LomasNunezYandun_StackLayout",
-        "projectPath": "C:\\Users\\laboratorio\\Desktop\\LomasNunezYandun_StackLayout\\LomasNunezYandun_StackLayout\\LomasNunezYandun_StackLayout.csproj",
+        "projectPath": "C:\\Users\\laboratorio\\Source\\Repos\\WashingtonYandun\\StackLayout\\LomasNunezYandun_StackLayout\\LomasNunezYandun_StackLayout\\LomasNunezYandun_StackLayout.csproj",
         "packagesPath": "C:\\Users\\laboratorio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\laboratorio\\Desktop\\LomasNunezYandun_StackLayout\\LomasNunezYandun_StackLayout\\obj\\",
+        "outputPath": "C:\\Users\\laboratorio\\Source\\Repos\\WashingtonYandun\\StackLayout\\LomasNunezYandun_StackLayout\\LomasNunezYandun_StackLayout\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
